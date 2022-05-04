@@ -41,7 +41,7 @@
     "babel-loader": "^8.1.0",
     "babel-plugin-styled-components": "^1.10.7",
     "electron": "^9.1.0",
-    "electron-builder": "^22.7.0",
+    "electron-builder": "^23.0.2",
     "electron-packager": "^15.0.0",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
