@@ -75,7 +75,6 @@ export default () => {
   const [ error, setError ] = useState(false);
 
   const handleRowCount = (e) => {
-    setError(!e.target.value.match(/^([1-9]|[1-8][0-9]|9[0-9]|[12][0-9]{2}|300)$/)); // number between 1 and 300
     setRowCount(e.target.value);
   };
 
